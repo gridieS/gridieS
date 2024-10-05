@@ -2,7 +2,7 @@ Hey, I'm gridie!
 
 I am currently 15 years old
 
-I'm a musician, and have a cute dog called "Lucky" :)
+I'm a musician
 
-I'm currently working and learning python, java, and react
+I use the languages python, java, and javascript (specifically the React framework)
 Would be happy to take suggestions!
